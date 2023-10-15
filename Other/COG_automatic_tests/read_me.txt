@@ -1,0 +1,4 @@
+- You can add tests in the tests_list.txt file.
+- Give the image path and the expected results for delta x, delta y with one comma separation.
+- Go to Other/COG_automatic_tests
+- Run ./run_tests.sh

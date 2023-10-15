@@ -1,0 +1,5 @@
+pouvoir changer COG référence
+voltage moyen 0.5 sec envoyé TT
+image à un moment donné une 1/100. Pause/Export
+compteur d'image / rate kHz
+on/off boucle

@@ -1,0 +1,2 @@
+process_image.h
+&frame (structure cf doc)

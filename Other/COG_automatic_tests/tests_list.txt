@@ -1,0 +1,8 @@
+../PSF_images/centered.png;-0.304,0.304
+../PSF_images/centered_with_col.png;1.837,0.269
+../PSF_images/issue.png;-2.602,0.333
+../PSF_images/not_centered.png;-7.250,7.250
+../PSF_images/not_centered_2.png;-7.253,-7.253
+../PSF_images/not_centered_3.png;7.257,-7.256
+../PSF_images/not_centered_4.png;7.261,7.261
+../PSF_images/not_centered_5.png;19.288,18.951
